@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "data-science-project"
+version = "0.1.0"
+description = ""
+authors = ["Martin Petri Bagger <mpb@danskecommodities.com>"]
+readme = "README.md"
+packages = [{include = "data_science_project"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
