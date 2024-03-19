@@ -8,6 +8,9 @@ packages = [{include = "data_science_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+requests = "^2.31.0"
+pandas = "^2.2.1"
+datetime = "^5.4"
 
 
 [tool.poetry.group.dev.dependencies]
