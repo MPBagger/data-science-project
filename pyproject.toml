@@ -8,6 +8,8 @@ packages = [{include = "data_science_project"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+beautifulsoup4 = "^4.12.3"
+lxml = "^5.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
