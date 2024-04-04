@@ -1,1 +1,11 @@
+# folders
 .ipynb_checkpoints/
+
+
+# files
+*_depricated.ipynb
+.env
+*.pyc
+poetry.lock
+addresses.txt
+
