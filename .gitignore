@@ -1,11 +1,12 @@
 # folders
 .ipynb_checkpoints/
+__pycache__/
+venv/
 
 
 # files
 *_depricated.ipynb
 .env
 *.pyc
-poetry.lock
 addresses.txt
 
