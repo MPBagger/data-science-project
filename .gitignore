@@ -1,2 +1,10 @@
+# folders
 .ipynb_checkpoints/
+__pycache__/
+venv/
+
+# files
+*_depricated.ipynb
 .env
+*.pyc
+addresses.txt
