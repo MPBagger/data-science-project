@@ -44,6 +44,8 @@ We will use `poetry` as virtual environment handler.
 - Allows you to declare the libraries your project depends on, and it will manage (install/update) them for you.
 - Offers a lockfile to ensure repeatable installs
 
+__NOTE:__ you need have python and poetry installed and if you have not already have a look at the [guide in the guides-folder](guides/Getting%20started%20with%20python.md)
+
 Jupyter is preinstalled in the poetry project, hence, by following the steps [get started on the current project (data_science_project)](#get-started-on-the-current-project-data_science_project) you will have jupyter installed.
 
 Once it installed you can run the command:
@@ -53,8 +55,6 @@ poetry run jupyter notebook
 ```
 
 #### get started on the current project (data_science_project)
-
-**you need have python and poetry installed and if you have not already have a look at the [guide in the guides-folder](guides/Getting%20started%20with%20python.md)**
 
 1. open a command prompt or terminal window.
 2. navigate to the `data-science-project` folder (the folder that holds this README.md)
