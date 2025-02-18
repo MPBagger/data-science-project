@@ -20,7 +20,7 @@ For the teaching in this course we will be using [jupyter notebooks](https://doc
 
 1. Use [google colab](https://colab.google/) as the environment for editing and executing the notebooks. __NB__ this is what will be used in the Machine Learning course.
 
-2. Instal jupyter in your local environment or in a [virtual environment](#virtual-environments). Once jupyter is installed you can run the code `jupyter notebook` in your command line or terminal. This will initialize a jupyter session.
+2. Install jupyter in your local environment or in a [virtual environment](#virtual-environments). Once jupyter is installed you can run the code `jupyter notebook` in your command line or terminal. This will initialize a jupyter session.
 
 __Note__ notebooks are great for teaching/learning, and therefore very useful for the current purpose, however, once you have learned the basics and wish to start developing actual applications, packages etc. you should no longer be using the notebook format.
 
