@@ -53,7 +53,7 @@ poetry run jupyter notebook
 
 #### get started on the current project (data_science_project)
 
-**you should already have python and poetry installed**
+**you need have python and poetry installed and if you have not already have a look at the [guide in the guides-folder](guides/Getting%20started%20with%20python.md)**
 
 1. open a command prompt or terminal window.
 2. navigate to the `data-science-project` folder (the folder that holds this README.md)
