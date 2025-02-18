@@ -15,15 +15,13 @@ In the repo there is the following
 
 ## Notebooks
 
-For the teaching in this course we will be using [jupyter notebooks](https://docs.jupyter.org/en/latest/) which requires jupyter to be installed in your environment. Once jupyter is installed you can run the code `jupyter notebook` in your command line or terminal. This will initialize a jupyter session.
+For the teaching in this course we will be using [jupyter notebooks](https://docs.jupyter.org/en/latest/) which requires the students to either:
 
-Jupyter is preinstalled in the poetry project, hence, by following the steps [get started on the current project (data_science_project)](#get-started-on-the-current-project-data_science_project) you will have jupyter installed.
+1. Use [google colab](https://colab.google/) as the environment for editing and executing the notebooks. __NB__ this is what will be used in the Machine Learning course.
 
-Once it installed you can run the command:
+2. Instal jupyter in your local environment or in a [virtual environment](#virtual-environments). Once jupyter is installed you can run the code `jupyter notebook` in your command line or terminal. This will initialize a jupyter session.
 
-```bash
-poetry run jupyter notebook
-```
+__Note__ notebooks are great for teaching/learning, and therefore very useful for the current purpose, however, once you have learned the basics and wish to start developing actual applications, packages etc. you should no longer be using the notebook format.
 
 ## Virtual environments
 
@@ -44,6 +42,14 @@ We will use `poetry` as virtual environment handler.
 - A tool for dependency management and packaging in Python.
 - Allows you to declare the libraries your project depends on, and it will manage (install/update) them for you.
 - Offers a lockfile to ensure repeatable installs
+
+Jupyter is preinstalled in the poetry project, hence, by following the steps [get started on the current project (data_science_project)](#get-started-on-the-current-project-data_science_project) you will have jupyter installed.
+
+Once it installed you can run the command:
+
+```bash
+poetry run jupyter notebook
+```
 
 #### get started on the current project (data_science_project)
 
