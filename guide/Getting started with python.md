@@ -8,7 +8,6 @@ In this course you will be using python. In order to follow the lectures you wil
 
 - (optionally) download and install **vs code** from [here](https://code.visualstudio.com/download) - *I will be working from vs code*
 
-  
 
 ## install python on windows
 
