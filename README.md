@@ -4,10 +4,11 @@ This repo contains material for the course **Data Science Project** at Aarhus Un
 
 In the repo there is the following
 
-- three folders:
+- four folders:
   - notebooks: teaching material for the course
   - data_science_project: this is where you could start building your packages, scripts, logic etc. *(folder for the poetry project)*
   - tests: folder where you would write tests for your code *(folder for the poetry project)*
+  - guides: guides on installing python 
 
 - README.md: this file
 - poetry.lock: keeps track of the exact versions used *(folder for the poetry project)*
